@@ -117,31 +117,4 @@ class App extends Component {
   }
 }
 
-const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: '#040404',
-  },
-  body: {
-    backgroundColor: '#ffffff',
-  },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: '#000000',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-    color: '#222222',
-  },
-  highlight: {
-    fontWeight: '700',
-  },
-});
-
 export default App;
