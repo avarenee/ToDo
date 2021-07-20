@@ -10,7 +10,7 @@
   "dependencies": {
     "mongodb-stitch-react-native-services-mongodb-remote": "^4.4.1",
     "react": "16.8.6",
-    "react-native": "0.60.0"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "7.5.4",
